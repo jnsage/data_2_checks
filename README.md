@@ -1,6 +1,7 @@
 # data_2_checks 
 Knowledge checks for Code Louisville Data Session. 
 
+## Knowledge Check 1
 Pulls in data from [OpenBreweriesDB](https://www.openbrewerydb.org) API and converts to a pandas dataframe. Data may not be up to date, but provides good sample data for the first knowledge check.
 - Displays the count of breweries listed in Kentucky.
 - Displays the count of each brewery type in Kentucky.
@@ -8,7 +9,7 @@ Pulls in data from [OpenBreweriesDB](https://www.openbrewerydb.org) API and conv
 - Prints the the second and third columns the dataframe.
 - Prints the first 4 rows of the dataframe.
 
-# Instructions for Check 1
+## Instructions for Check 1
 From the command line:
 1) Clone the [data_2_checks](https://github.com/jnsage/data_2_checks) repo from GitHub:
 ```
